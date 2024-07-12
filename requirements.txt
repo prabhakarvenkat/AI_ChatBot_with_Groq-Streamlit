@@ -1,0 +1,4 @@
+Groq - API
+os
+langchain-Groq
+streamlit
