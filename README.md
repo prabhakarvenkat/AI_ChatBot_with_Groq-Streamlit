@@ -17,6 +17,7 @@
   <p>
     Groq Chat, built atop this cutting-edge hardware, stands out by providing real-time responses to natural language queries, making it an exceptional tool for a myriad of applications including customer service, technical support, and sales.
   </p>
+  
   ![logo](https://github.com/prabhakarvenkat/AI_ChatBot_with_Groq-Streamlit/blob/aeec088190b4e84944c7192635a22d2ac889ef17/Screenshot%202024-07-12%20215136.png)
   <h2>Features</h2>
   <ul>
@@ -81,6 +82,7 @@ streamlit run app.py
   </p>
 
   <h2>Output</h2>
+  
   ![logo](https://github.com/prabhakarvenkat/AI_ChatBot_with_Groq-Streamlit/blob/aeec088190b4e84944c7192635a22d2ac889ef17/Screenshot%202024-07-12%20215239.png)
   
   <h2>License</h2>
